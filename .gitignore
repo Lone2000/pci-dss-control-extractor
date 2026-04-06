@@ -11,4 +11,7 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
-src/*.pdf
+# Large source PDFs (>1MB)
+src/feed-claude-pci.pdf
+src/Appendix-controls.pdf
+src/hipaa-simplification-201303.pdf
