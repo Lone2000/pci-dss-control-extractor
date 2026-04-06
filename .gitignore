@@ -1,0 +1,14 @@
+# Rendered page images (large, regenerable from PDFs)
+temp/
+
+# API keys and secrets
+*.env
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+src/*.pdf
